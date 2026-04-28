@@ -15,9 +15,10 @@ Evolved from a five-year foundation in full-stack development into a software ar
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Slackluky&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo Badges
 ![](https://github-contributor-stats.vercel.app/api?username=Slackluky&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+[![@Slackluky Astro contributions](https://astro.badg.es/v2/contributor/Slackluky.svg)](https://astro.badg.es/contributor/Slackluky/)
 ---
 [![](https://komarev.com/ghpvc/?username=Slackluky&icon=2&color=11)](https://visitcount.itsvg.in)
 
