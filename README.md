@@ -30,18 +30,6 @@ The list below can be filled automatically from your public repositories or manu
 Skills generated from your repositories
 - NOTE: To automatically populate this section from your actual repos, reply with the repo list or allow me to fetch your public repositories. I will extract main languages and present a repo-by-repo skill map (e.g., "repo-name — Techs/stack — short description").
 
----
-
-## Featured projects
-(Replace these placeholders with your real repo links or let me fetch them)
-
-- [repo-1](https://github.com/Slackluky/repo-1) — Short one-line description highlighting language/stack and purpose.
-- [repo-2](https://github.com/Slackluky/repo-2) — Short one-line description.
-- [repo-3](https://github.com/Slackluky/repo-3) — Short one-line description.
-
-If you'd like, I can auto-fill this with your top repos and summarize each one (tech used, purpose, top languages). Reply with "auto-fill" or paste your repo list.
-
----
 
 ## GitHub stats
 (These images are optional and work when public profile is available)
