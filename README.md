@@ -18,7 +18,7 @@ Evolved from a five-year foundation in full-stack development into a software ar
 ### 🔝 Top Contributed Repo Badges
 ![](https://github-contributor-stats.vercel.app/api?username=Slackluky&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![@Slackluky Astro contributions](https://astro.badg.es/v2/contributor/Slackluky.svg)](https://astro.badg.es/contributor/Slackluky/)
+[commit](https://github.com/withastro/astro/commit/42963732165959795067e11486f10fa2ac5a48cd) Thanks @Slackluky! - Adds the ability to split sitemap generation into chunks based on customizable logic. This allows for better management of large sitemaps and improved performance. The new chunks option in the sitemap configuration allows users to define functions that categorize sitemap items into different chunks. Each chunk is then written to a separate sitemap file. [![@Slackluky Astro contributions](https://astro.badg.es/v2/contributor/Slackluky.svg)](https://astro.badg.es/contributor/Slackluky/)
 ---
 [![](https://komarev.com/ghpvc/?username=Slackluky&icon=2&color=11)](https://visitcount.itsvg.in)
 
